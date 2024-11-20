@@ -1,5 +1,7 @@
 # Домашнее задание к занятию "Работа с HTML-формами"
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ivmebsa8iy9akn9o/branch/main?svg=true)](https://ci.appveyor.com/project/FutureofMankind/html-forms/branch/main)
+
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
 2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
